@@ -210,4 +210,46 @@ cv2.destroyAllWindows()
 <li><a href="https://github.com/ageitgey/face_recognition/blob/master/examples/face_recognition_knn.py">Recognize faces with a K-nearest neighbors classifier</a></li>
 <li><a href="https://github.com/ageitgey/face_recognition/blob/master/examples/face_recognition_svm.py">Train multiple images per person then recognize faces using a SVM</a></li>
 </ul>
+<h2 id="reference-section">Reference Section</h2>
+<ul>
+<li>
+<p><a href="https://github.com/RishabhArya/Face-Recognition/blob/master/Readme.md">My GitHub Repo</a></p>
+</li>
+<li>
+<p><a href="https://github.com/ageitgey/face_recognition">Official Face Recognition Repo module</a></p>
+</li>
+<li>
+<p><a href="https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78">Machine Learning is Fun! Part 4: Modern Face Recognition with Deep Learning</a></p>
+</li>
+<li>
+<p><a href="https://medium.com/analytics-vidhya/a-take-on-h-o-g-feature-descriptor-e839ebba1e52">A Take on H.O.G Feature Descriptor - Analytics Vidhya - Medium</a></p>
+</li>
+<li>
+<p><a href="https://docs.opencv.org/3.4/d2/d99/tutorial_js_face_detection.html">OpenCV: Face Detection using Haar Cascades</a></p>
+</li>
+<li>
+<p>My article on how Face Recognition works: <a href="https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78">Modern Face Recognition with Deep Learning</a></p>
+<ul>
+<li>Covers the algorithms and how they generally work</li>
+</ul>
+</li>
+<li>
+<p><a href="https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/">Face recognition with OpenCV, Python, and deep learning</a> by Adrian Rosebrock</p>
+<ul>
+<li>Covers how to use face recognition in practice</li>
+</ul>
+</li>
+<li>
+<p><a href="https://www.pyimagesearch.com/2018/06/25/raspberry-pi-face-recognition/">Raspberry Pi Face Recognition</a> by Adrian Rosebrock</p>
+<ul>
+<li>Covers how to use this on a Raspberry Pi</li>
+</ul>
+</li>
+<li>
+<p><a href="https://www.pyimagesearch.com/2018/07/09/face-clustering-with-python/">Face clustering with Python</a> by Adrian Rosebrock</p>
+<ul>
+<li>Covers how to automatically cluster photos based on who appears in each photo using unsupervised learning</li>
+</ul>
+</li>
+</ul>
 
