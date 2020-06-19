@@ -96,6 +96,7 @@ for (top, right, bottom, left), face_encoding in zip(face_locations, face_encodi
     draw.rectangle(((left, bottom - text_height - 10), (right, bottom)), fill=(0, 0, 255), outline=(0, 0, 255))  
     draw.text((left + 6, bottom - text_height - 5), name, fill=(255, 255, 255, 255))  
   
+  ![enter image description here](https://github.com/RishabhArya/Face-Recognition/blob/master/Screenshots/Screenshot%20from%202020-06-19%2007-36-01.png)
   
 #Remove the drawing library from memory as per the Pillow docs  
 del draw  
@@ -183,6 +184,7 @@ cv2.putText(frame, name, (left + 6, bottom - 6), font, 1.0, (255, 255, 255), 1)
   #Release handle to the webcam video_capture.release()  
 cv2.destroyAllWindows()
 </code></pre>
+<p><img src="https://github.com/RishabhArya/Face-Recognition/blob/master/Screenshots/Screenshot%20from%202020-06-04%2008-20-39.png" alt="output"></p>
 <h2 id="more-examples">More Examples</h2>
 <p>All the examples are available <a href="https://github.com/ageitgey/face_recognition/tree/master/examples">here</a>.</p>
 <h4 id="face-detection">Face Detection</h4>
